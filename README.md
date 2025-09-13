@@ -1,13 +1,13 @@
 # Flags Currency App
 
 ## Project Description
-Flags Currency App is a simple web application that displays country flags, https://ankam-ui.github.io/flags-currency-app/ country names, dial codes, and currencies. It also provides a **search functionality** to quickly find a country by typing part of its name.
+Flags Currency App is a simple web application that displays country flags, country names, dial codes, and currencies. It also provides a **search functionality** to quickly find a country by typing part of its name.
 
 This project is built using **HTML, CSS, and JavaScript**, making it a lightweight and responsive app that works in modern browsers.
 
 
 ## Live Demo
-Check the live app here: (https://ankammarao-portfolio.github.io/flags-currency-website/)
+Check the live app here: https://ankammarao-portfolio.github.io/flags-currency-website
 
 ---
 
