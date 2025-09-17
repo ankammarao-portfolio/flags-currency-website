@@ -7,7 +7,7 @@ This project is built using **HTML, CSS, and JavaScript**, making it a lightweig
 
 
 ## Live Demo
-Check the live app here: https://ankammarao-portfolio.github.io/flags-currency-website
+👉 [Find Flags & Currencies](https://ankammarao-portfolio.github.io/flags-currency-website)
 
 ---
 
