@@ -9,12 +9,13 @@ This project is built using **HTML, CSS, and JavaScript**, making it a lightweig
 ## Live Demo
 👉 [Find Flags & Currencies](https://ankammarao-portfolio.github.io/flags-currency-website)
 
+---
 ### 🎨 Themes
 
-#### 🌞 Light Mode
+### 🌞 Light Mode
 <img width="1351" height="594" alt="image" src="https://github.com/user-attachments/assets/62f898e4-931d-4cd7-878e-388f497c75b4" />
 
-#### 🌙 Dark Mode
+###🌙 Dark Mode
 <img width="1348" height="602" alt="image" src="https://github.com/user-attachments/assets/230b9323-05b9-4bd8-a8dd-bd408da8b083" />
 
 ---
